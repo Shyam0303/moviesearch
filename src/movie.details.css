@@ -1,0 +1,23 @@
+.movie-details-style {
+    width: 800px;
+    height: 1000px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 9px 2px darkgray;
+}
+
+.movie-details-img {
+    float: left;
+    margin-right:15px;
+  max-width: 500px;
+  height: 500px;
+  border-radius: 10px;
+
+}
+.col-25 {
+    float: left;
+    width: 55%;
+    margin-top: 6px;
+    padding: 12px 400px;
+    
+  }
